@@ -127,7 +127,7 @@ Key libraries:
 - [PyTorch](https://pytorch.org/)  
 - [Torchaudio Docs](https://pytorch.org/audio/stable/index.html)  
 - [Scikit-learn Metrics](https://scikit-learn.org/stable/modules/model_evaluation.html)  
-- [Audio Deep Learning Made Simple](https://towardsdatascience.com/audio-deep-learning-made-simple-sound-classification-step-by-step-1c3cfc4774b8) - Ketan Doshi
+- [Audio Deep Learning Made Simple](https://medium.com/data-science/audio-deep-learning-made-simple-sound-classification-step-by-step-cebc936bbe5) - Ketan Doshi
 
 ---
 
